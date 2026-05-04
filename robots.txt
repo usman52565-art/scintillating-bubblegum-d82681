@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: Bingbot
-Crawl-delay: 1
-
 Sitemap: https://scintillating-bubblegum-d82681.netlify.app/sitemap.xml
