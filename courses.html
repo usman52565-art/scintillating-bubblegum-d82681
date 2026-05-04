@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse all courses at Smart Online Academy. Filter by category, language, and find the perfect course to learn new skills.">
+    <meta name="keywords" content="online courses, course catalog, digital marketing, programming, finance courses">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="All Courses - Smart Online Academy">
+    <meta property="og:description" content="Browse and filter our complete course catalog">
+    
+    <title>All Courses - Smart Online Academy</title>
+    <link rel="canonical" href="https://smartonlineacademy.com/courses">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="courses">
+    <a href="#main-content" class="skip-to-content">Skip to main content</a>
+    
+    <!-- Navigation -->
+    <nav role="navigation">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">Smart Academy</a>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
+            <ul class="nav-menu">
+                <li><a href="index.html" id="nav-home">Home</a></li>
+                <li><a href="courses.html" id="nav-courses">Courses</a></li>
+                <li><a href="categories.html" id="nav-categories">Categories</a></li>
+                <li><a href="about.html" id="nav-about">About</a></li>
+                <li><a href="blog.html" id="nav-blog">Blog</a></li>
+            </ul>
+            <div class="nav-controls">
+                <button class="theme-toggle" aria-label="Toggle theme">🌙</button>
+                <button class="lang-toggle" aria-label="Toggle language">EN</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="main-content">
+        <div class="container">
+            <h1>All Courses</h1>
+            <p>Explore our complete catalog of courses</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="section">
+        <div class="container">
+            <!-- Filters -->
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="search">Search</label>
+                    <input type="text" id="search" placeholder="Search courses..." data-course-search>
+                </div>
+                <div class="filter-group">
+                    <label for="category">Category</label>
+                    <select id="category" data-category-filter>
+                        <option value="">All Categories</option>
+                        <option value="digital">Digital Skills</option>
+                        <option value="finance">Finance & Business</option>
+                        <option value="creative">Creative Skills</option>
+                        <option value="personal">Personal Development</option>
+                        <option value="technical">Technical Skills</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="language">Language</label>
+                    <select id="language" data-language-filter>
+                        <option value="">All Languages</option>
+                        <option value="en">English</option>
+                        <option value="pt">Português</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Courses Grid -->
+            <div class="grid grid-3" data-courses-container></div>
+        </div>
+    </section>
+
+    <!-- Newsletter CTA -->
+    <section class="section" style="background: var(--background-alt);">
+        <div class="container">
+            <div class="cta-banner" style="background: var(--gradient-primary);">
+                <h2>Start Learning Today</h2>
+                <p>Subscribe to get notified about new courses</p>
+                <form class="newsletter" data-newsletter-form>
+                    <input type="email" placeholder="Enter your email" required>
+                    <button type="submit" class="btn btn-secondary">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Smart Online Academy</h4>
+                    <p style="color: var(--text-secondary);">Empowering learners worldwide to achieve their dreams</p>
+                    <div class="footer-social">
+                        <a href="https://facebook.com" aria-label="Facebook">f</a>
+                        <a href="https://twitter.com" aria-label="Twitter">𝕏</a>
+                        <a href="https://instagram.com" aria-label="Instagram">📷</a>
+                        <a href="https://linkedin.com" aria-label="LinkedIn">in</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="courses.html">Courses</a></li>
+                        <li><a href="categories.html">Categories</a></li>
+                        <li><a href="about.html">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="#">Help Center</a></li>
+                        <li><a href="#">Community</a></li>
+                        <li><a href="#">FAQ</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <ul>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="https://wa.me/1234567890">WhatsApp</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2025 Smart Online Academy. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" aria-label="Back to top">↑</button>
+
+    <!-- Scripts -->
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
