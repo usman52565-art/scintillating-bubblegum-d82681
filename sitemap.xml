@@ -6,7 +6,7 @@
 
     <!-- Home Page -->
     <url>
-        <loc>https://smartonlineacademy.com/</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -15,7 +15,7 @@
 
     <!-- Courses Page -->
     <url>
-        <loc>https://smartonlineacademy.com/courses.html</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/courses.html</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -24,7 +24,7 @@
 
     <!-- Individual Course Pages -->
     <url>
-        <loc>https://smartonlineacademy.com/course.html?id=1</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/course.html?id=1</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/course.html?id=2</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/course.html?id=2</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/course.html?id=3</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/course.html?id=3</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/course.html?id=4</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/course.html?id=4</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/course.html?id=5</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/course.html?id=5</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/course.html?id=6</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/course.html?id=6</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -73,7 +73,7 @@
 
     <!-- Categories Page -->
     <url>
-        <loc>https://smartonlineacademy.com/categories.html</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/categories.html</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -82,7 +82,7 @@
 
     <!-- About Page -->
     <url>
-        <loc>https://smartonlineacademy.com/about.html</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/about.html</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -91,7 +91,7 @@
 
     <!-- Blog Page -->
     <url>
-        <loc>https://smartonlineacademy.com/blog.html</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/blog.html</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -100,7 +100,7 @@
 
     <!-- Category Filtered Pages -->
     <url>
-        <loc>https://smartonlineacademy.com/courses.html?category=digital</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/courses.html?category=digital</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -108,7 +108,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/courses.html?category=finance</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/courses.html?category=finance</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -116,7 +116,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/courses.html?category=creative</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/courses.html?category=creative</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -124,7 +124,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/courses.html?category=personal</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/courses.html?category=personal</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -132,7 +132,7 @@
     </url>
 
     <url>
-        <loc>https://smartonlineacademy.com/courses.html?category=technical</loc>
+        <loc>https://scintillating-bubblegum-d82681.netlify.app/courses.html?category=technical</loc>
         <lastmod>2025-05-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
