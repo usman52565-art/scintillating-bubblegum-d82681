@@ -658,6 +658,81 @@ const courses = [
       "Leadership and Team Performance",
       "Business Growth and Sustainability"
     ]
+  },
+  {
+    id: 18,
+    title_en: "Professional Manicure & Pedicure Complete",
+    title_pt: "Manicure e Pedicure Profissional Completo",
+    description_en: "A complete Portuguese course for professional manicure and pedicure techniques, salon service setup, and customer care.",
+    description_pt: "Curso completo de Manicure e Pedicure Profissional, com técnicas para serviços de salão, cuidados com as unhas e atendimento ao cliente.",
+    category: "creative",
+    language: "pt",
+    price: "R$ 0.00",
+    rating: 4.9,
+    reviews: 95,
+    image: "assets/images/ManicurePedicurePro.png",
+    instructor: "Expert Nail Technician",
+    level: "Beginner",
+    duration: "30 days",
+    students: 240,
+    hotmart_link: "https://go.hotmart.com/V103469358C",
+    modules: [
+      "Manicure and Pedicure Basics",
+      "Nail Preparation and Sanitation",
+      "Professional Nail Finishing Techniques",
+      "Client Service and Salon Procedures",
+      "Building Your Beauty Business"
+    ]
+  },
+  {
+    id: 19,
+    title_en: "Master English Grammar in 30 Days",
+    title_pt: "Domine a Gramática Inglesa em 30 Dias",
+    description_en: "A focused English grammar course designed to help learners master core rules, sentence structure, and practical usage in 30 days.",
+    description_pt: "Um curso de gramática inglesa focado para ajudar os alunos a dominar regras essenciais, estrutura de frases e uso prático em 30 dias.",
+    category: "personal",
+    language: "en",
+    price: "$0.00",
+    rating: 4.8,
+    reviews: 120,
+    image: "assets/images/Untitleddesign21.png",
+    instructor: "English Grammar Coach",
+    level: "Beginner",
+    duration: "30 days",
+    students: 400,
+    hotmart_link: "https://go.hotmart.com/J102702430J",
+    modules: [
+      "English Grammar Fundamentals",
+      "Tenses and Verb Forms",
+      "Sentence Structure and Punctuation",
+      "Common Grammar Mistakes",
+      "Practice with Real Exercises"
+    ]
+  },
+  {
+    id: 20,
+    title_en: "Master Incorp™ – Complete Real Estate Development Training",
+    title_pt: "Master Incorp™ – Formação Completa em Incorporação Imobiliária",
+    description_en: "A detailed course on real estate development and property incorporation, teaching investment, planning, and execution strategies.",
+    description_pt: "Um curso completo sobre incorporação imobiliária, ensinando investimento, planejamento e estratégias de execução para projetos de sucesso.",
+    category: "finance",
+    language: "pt",
+    price: "R$ 0.00",
+    rating: 4.9,
+    reviews: 130,
+    image: "assets/images/MasterIncorp.png",
+    instructor: "Real Estate Expert",
+    level: "Intermediate",
+    duration: "30 days",
+    students: 300,
+    hotmart_link: "https://go.hotmart.com/K104321938B",
+    modules: [
+      "Understanding Property Incorporation",
+      "Market Analysis and Investment",
+      "Project Planning and Financing",
+      "Legal and Regulatory Best Practices",
+      "Executing and Managing Real Estate Projects"
+    ]
   }
 ];
 
