@@ -733,6 +733,106 @@ const courses = [
       "Legal and Regulatory Best Practices",
       "Executing and Managing Real Estate Projects"
     ]
+  },
+  {
+    id: 21,
+    title_en: "Modern Social Media Templates – Photoshop + Canva Editable Pack",
+    title_pt: "Modelos Modernos de Redes Sociais – Pacote Editável Photoshop + Canva",
+    description_en: "A comprehensive pack of modern social media templates for Photoshop and Canva, perfect for creating engaging content across platforms.",
+    description_pt: "Um pacote completo de modelos modernos para redes sociais no Photoshop e Canva, ideal para criar conteúdo envolvente em todas as plataformas.",
+    category: "creative",
+    language: "en",
+    price: "$0.00",
+    rating: 4.8,
+    reviews: 85,
+    image: "assets/images/ugDesigner.png",
+    instructor: "Graphic Design Specialist",
+    level: "Beginner",
+    duration: "30 days",
+    students: 180,
+    hotmart_link: "https://go.hotmart.com/S102820951X",
+    modules: [
+      "Introduction to Social Media Design",
+      "Using Photoshop for Templates",
+      "Canva Editing Techniques",
+      "Customizing Templates for Brands",
+      "Exporting and Optimizing for Platforms"
+    ]
+  },
+  {
+    id: 22,
+    title_en: "The Definitive Scrum Master Manual",
+    title_pt: "O Manual Definitivo do Scrum Master",
+    description_en: "A comprehensive guide to becoming a certified Scrum Master, covering Agile principles, Scrum framework, and practical implementation.",
+    description_pt: "Um guia completo para se tornar um Scrum Master certificado, cobrindo princípios Ágeis, framework Scrum e implementação prática.",
+    category: "technical",
+    language: "pt",
+    price: "R$ 0.00",
+    rating: 4.9,
+    reviews: 110,
+    image: "assets/images/OnlineCourse.png",
+    instructor: "Agile Coach",
+    level: "Intermediate",
+    duration: "30 days",
+    students: 250,
+    hotmart_link: "https://go.hotmart.com/O103390550J",
+    modules: [
+      "Introduction to Agile and Scrum",
+      "Scrum Master Roles and Responsibilities",
+      "Sprint Planning and Execution",
+      "Facilitating Scrum Events",
+      "Coaching Teams and Organizations"
+    ]
+  },
+  {
+    id: 23,
+    title_en: "Online Lettering Mastery Course™",
+    title_pt: "Curso Online de Domínio em Lettering™",
+    description_en: "A comprehensive online course teaching advanced lettering techniques, from basics to professional mastery for digital and traditional media.",
+    description_pt: "Um curso online abrangente ensinando técnicas avançadas de lettering, desde o básico até o domínio profissional para mídias digitais e tradicionais.",
+    category: "creative",
+    language: "en",
+    price: "$0.00",
+    rating: 4.8,
+    reviews: 95,
+    image: "assets/images/LetteringMasteryCourse.png",
+    instructor: "Lettering Artist",
+    level: "Beginner",
+    duration: "30 days",
+    students: 220,
+    hotmart_link: "https://go.hotmart.com/N105570210F",
+    modules: [
+      "Introduction to Lettering Basics",
+      "Tools and Materials for Lettering",
+      "Digital Lettering Techniques",
+      "Hand-Lettering Styles and Practice",
+      "Creating Professional Lettering Projects"
+    ]
+  },
+  {
+    id: 24,
+    title_en: "Portfolio Builder Kit – Canva + Google Sites Templates for Freelancers",
+    title_pt: "Kit Construtor de Portfólio – Modelos Canva + Google Sites para Freelancers",
+    description_en: "A complete kit with Canva and Google Sites templates designed to help freelancers build professional portfolios quickly and effectively.",
+    description_pt: "Um kit completo com modelos do Canva e Google Sites projetados para ajudar freelancers a construir portfólios profissionais de forma rápida e eficaz.",
+    category: "digital",
+    language: "en",
+    price: "$0.00",
+    rating: 4.7,
+    reviews: 75,
+    image: "assets/images/PortfolioBuilderKit2025.png",
+    instructor: "Freelance Marketing Expert",
+    level: "Beginner",
+    duration: "30 days",
+    students: 160,
+    hotmart_link: "https://go.hotmart.com/S102720947G",
+    modules: [
+      "Understanding Freelance Portfolios",
+      "Using Canva for Portfolio Design",
+      "Google Sites Setup and Customization",
+      "Showcasing Work and Testimonials",
+      "Optimizing for Client Acquisition"
+    ]
   }
 ];
 
