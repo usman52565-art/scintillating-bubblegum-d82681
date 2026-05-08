@@ -305,6 +305,78 @@ const courses = [
       "Looks para eventos especiais e fotografias",
       "Cuidados pós-maquiagem e manutenção"
     ]
+  },
+  {
+    id: 4,
+    title_en: "Power BI Mastery - From Zero to Professional Data Analysis",
+    title_pt: "Power BI Mastery – Do Zero à Análise Profissional de Dados",
+    description_en: "Learn Power BI from scratch and build professional dashboards, reports, and data models for real business insights.",
+    description_pt: "Aprenda Power BI do zero e construa dashboards, relatórios e modelos de dados profissionais para insights reais.",
+    category: "technical",
+    language: "pt",
+    rating: 4.8,
+    reviews: 1120,
+    students: 8400,
+    level: "Beginner to Professional",
+    duration: "18 hours",
+    hotmart_link: "https://go.hotmart.com/V105717294P",
+    image: "assets/images/POWERBIMAS.png",
+    modules: [
+      "Introdução ao Power BI e preparação de dados",
+      "Modelagem de dados e criação de relacionamentos",
+      "DAX essencial para análises avançadas",
+      "Criação de relatórios interativos e dashboards",
+      "Visualizações avançadas e customizadas",
+      "Publicação, compartilhamento e automação de análises"
+    ]
+  },
+  {
+    id: 5,
+    title_en: "Shopify Dropshipping Mastery",
+    title_pt: "Shopify Dropshipping Mastery",
+    description_en: "Learn how to build a profitable Shopify dropshipping business with real product sourcing, automation, and conversion-focused store design.",
+    description_pt: "Aprenda a construir um negócio de dropshipping Shopify rentável com fontes reais de produtos, automação e design de loja focado em conversão.",
+    category: "business",
+    language: "pt",
+    rating: 4.7,
+    reviews: 1040,
+    students: 7800,
+    level: "Beginner to Professional",
+    duration: "16 hours",
+    hotmart_link: "https://go.hotmart.com/V105716651M",
+    image: "assets/images/SHOPIFYDR.png",
+    modules: [
+      "Introdução ao dropshipping e ao ecossistema Shopify",
+      "Pesquisa de produtos vencedores e fornecedores confiáveis",
+      "Configuração da loja, temas e páginas de produto",
+      "Automação de pedidos e atendimento ao cliente",
+      "Estratégias de tráfego pago e orgânico",
+      "Escala do negócio e otimização de conversões"
+    ]
+  },
+  {
+    id: 6,
+    title_en: "SPDA & Grounding Design Mastery",
+    title_pt: "SPDA & Grounding Design Mastery",
+    description_en: "Master SPDA and grounding design principles with practical engineering examples and safety-compliant system planning.",
+    description_pt: "Domine o SPDA e o projeto de aterramento com exemplos práticos de engenharia e planejamento de sistemas conforme normas de segurança.",
+    category: "technical",
+    language: "pt",
+    rating: 4.8,
+    reviews: 980,
+    students: 6700,
+    level: "Beginner to Professional",
+    duration: "14 hours",
+    hotmart_link: "https://go.hotmart.com/I105522159S",
+    image: "assets/images/SPDAAterrame.png",
+    modules: [
+      "Fundamentos do SPDA e normas técnicas",
+      "Análise de risco e dimensionamento do sistema de proteção",
+      "Projeto de aterramento e malhas de terra",
+      "Materiais, hasteamento e conexões elétricas",
+      "Cálculo de dissipação e resistência de aterramento",
+      "Testes, manutenção e inspeção de sistemas de proteção"
+    ]
   }
 ];
 
