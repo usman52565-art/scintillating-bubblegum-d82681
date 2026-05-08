@@ -377,6 +377,30 @@ const courses = [
       "Cálculo de dissipação e resistência de aterramento",
       "Testes, manutenção e inspeção de sistemas de proteção"
     ]
+  },
+  {
+    id: 7,
+    title_en: "Domínio de Tríades: O Sistema Completo de Guitarra",
+    title_pt: "Domínio de Tríades: O Sistema Completo de Guitarra",
+    description_en: "Master the complete triad system for guitar with comprehensive theory, practice exercises, and musical applications.",
+    description_pt: "Domine o sistema completo de tríades para guitarra com teoria abrangente, exercícios práticos e aplicações musicais.",
+    category: "creative",
+    language: "pt",
+    rating: 4.7,
+    reviews: 890,
+    students: 5200,
+    level: "Beginner to Advanced",
+    duration: "12 hours",
+    hotmart_link: "https://go.hotmart.com/Y105036182Y",
+    image: "assets/images/DOMINETRIADES.jpg",
+    modules: [
+      "Introdução às tríades e teoria musical básica",
+      "Construção e identificação de tríades maiores e menores",
+      "Tríades diminutas, aumentadas e suspensas",
+      "Aplicações práticas em acordes e progressões",
+      "Técnicas de dedilhado e exercícios de velocidade",
+      "Composição e improvisação com tríades"
+    ]
   }
 ];
 
